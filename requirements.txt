@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+sqlalchemy
+flask_migrate==4.0.5
+flask_swagger==0.2.14
+flask_cors==4.0.0
+flask_admin==1.6.1
+wtforms==3.0.1
+eralchemy2
+psycopg2-binary
+python-dotenv==1.0.0
